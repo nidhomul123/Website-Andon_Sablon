@@ -17,7 +17,7 @@
      -o-transition: all 0.2s ease;
 }
 .navbar.color-active {
-background-color: #212529;
+background-color:  rgb(210, 71, 6);
 transform: scaleY(1);
 -webkit-transform: scaleY(1);
 -moz-transform: scaleY(1);
